@@ -1,6 +1,6 @@
 package Tasks;
 
-public class Task001_Table_9 {
+public class Task001_March11th_Table_9 {
     public static void main(String[] args) {
         int num = 9;
         System.out.printf("%d*1=%d\n",num,num*1);
