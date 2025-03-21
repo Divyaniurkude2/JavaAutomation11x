@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-public class Lab_123_While_Guessing_Game {
+public class Lab123_While_Guessing_Game {
     public static void main(String[] args) {
         Random random = new Random();
         int numberToGuess = random.nextInt(100)+1;
