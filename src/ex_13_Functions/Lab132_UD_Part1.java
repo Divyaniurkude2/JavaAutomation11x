@@ -19,10 +19,10 @@ public class Lab132_UD_Part1 {
         System.out.println(msg);
 
         //  3. With Parameters and Without Return Type ( 90%)
-        greet_with_details("Pramod", 65, 100);
-        greet_with_details("Ankit", 100, 120);
+        greet_with_details("Divyani", 65, 100);
+        greet_with_details("John", 100, 120);
 
-        greet_with_full_name("Pramod", "Dutta");
+        greet_with_full_name("Divyani", "Urkude");
 
 
         //  4. With Parameters and With Return Type
